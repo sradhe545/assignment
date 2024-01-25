@@ -1,6 +1,6 @@
 # Assignment
 
-Simulation of a toy robot moving on a square tabletop, of dimensions.
+Simulation of a toy robot moving on a square tabletop, of 5X5 dimensions.
 
 ## To start Locally
 
